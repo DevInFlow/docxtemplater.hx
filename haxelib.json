@@ -1,0 +1,19 @@
+{
+  "name": "docxtemplater.hx",
+  "url": "https://github.com/DevInFlow/jszip.hx",
+  "license": "MIT",
+  "tags": [
+    "js",
+    "node"
+  ],
+  "description": "",
+  "version": "0.0.1",
+  "classPath": "src",
+  "releasenote": "",
+  "contributors": [
+    "varadig"
+  ],
+  "dependencies": {
+    "hxnodejs":""
+  }
+}
